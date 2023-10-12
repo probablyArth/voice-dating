@@ -1,0 +1,13 @@
+.navBar{
+    padding:20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoutButton{
+    background: #000000 ;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+}
